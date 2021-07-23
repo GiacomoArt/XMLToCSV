@@ -1,0 +1,10 @@
+C:\Users\Owner\source\repos\Bookstore XML Parser\Bookstore XML Parser\bin\Debug\Bookstore XML Parser.exe.config
+C:\Users\Owner\source\repos\Bookstore XML Parser\Bookstore XML Parser\bin\Debug\Bookstore XML Parser.exe
+C:\Users\Owner\source\repos\Bookstore XML Parser\Bookstore XML Parser\bin\Debug\Bookstore XML Parser.pdb
+C:\Users\Owner\source\repos\Bookstore XML Parser\Bookstore XML Parser\obj\Debug\Bookstore XML Parser.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\Bookstore XML Parser\Bookstore XML Parser\obj\Debug\Bookstore_XML_Parser.Properties.Resources.resources
+C:\Users\Owner\source\repos\Bookstore XML Parser\Bookstore XML Parser\obj\Debug\Bookstore_XML_Parser.frmXMLParser.resources
+C:\Users\Owner\source\repos\Bookstore XML Parser\Bookstore XML Parser\obj\Debug\Bookstore XML Parser.csproj.GenerateResource.cache
+C:\Users\Owner\source\repos\Bookstore XML Parser\Bookstore XML Parser\obj\Debug\Bookstore XML Parser.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\Bookstore XML Parser\Bookstore XML Parser\obj\Debug\Bookstore XML Parser.exe
+C:\Users\Owner\source\repos\Bookstore XML Parser\Bookstore XML Parser\obj\Debug\Bookstore XML Parser.pdb
